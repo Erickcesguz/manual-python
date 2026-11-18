@@ -1,0 +1,7 @@
+site_name: Manual básico de Python
+
+nav:
+  - Inicio: index.md
+  - Introducción: introduccion.md
+  - Instalación: instalacion.md
+  - Ejemplos: ejemplos.md
